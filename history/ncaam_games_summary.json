@@ -121,6 +121,12 @@
     "Final Four/Championship": 3
    },
    "pulled_at": "2026-10-23T04:38:03+00:00"
+  },
+  "2027": {
+   "games": 0,
+   "errors": 0,
+   "error_sample": [],
+   "pulled_at": "2026-10-26T16:04:22+00:00"
   }
  },
  "version": "1.2"
